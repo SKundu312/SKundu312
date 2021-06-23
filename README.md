@@ -9,7 +9,7 @@
 
 - 📫 You can reach me at **kundushreya312@gmail.com**
 
-- ⚡About Me **I love to learn about technology each day.Singing,writing are some of my hobbies.**
+- ⚡About Me :**I love to learn about technology each day.Singing,writing are some of my hobbies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
