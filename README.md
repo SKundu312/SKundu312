@@ -5,7 +5,7 @@
 
 - 📝 I write articles on [medium](medium)
 
-- 💬 Ask me about **html,css,js,dsa**
+- 💬 Ask me about **HTML,CSS,Javascript,MERN,Data Structures and Algorithms**
 
 - 📫 You can reach me at **kundushreya312@gmail.com**
 
